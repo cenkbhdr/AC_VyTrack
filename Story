@@ -2,4 +2,20 @@
 
 2. adding gitignore
 
-3. 
+3. CVS, share project on GitHub remote
+
+4. Create Branches on GitHub
+    next environments:
+        1. master remote
+        2. master local
+        3. Temp remote
+        4. Temp local
+        5. Alex remote
+        6. Alex local
+        7. Cenk remote
+        8. Cenk local
+
+5. Create structure of the project
+    5.1. Utilities
+    5.2. Test features
+    5.3. Page Objects
