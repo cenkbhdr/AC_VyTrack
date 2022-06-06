@@ -22,6 +22,7 @@ public class US_01_TC1_LoginFunctionality_AllCorrect {
         //2.Navigate to https://qa2.vytrack.com/user/login
         driver.get("https://qa2.vytrack.com/user/login");
 
+        //3. Login page Title Verification
 
     }
 }
